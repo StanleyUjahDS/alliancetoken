@@ -1,0 +1,2 @@
+# alliancetoken
+The believers token
